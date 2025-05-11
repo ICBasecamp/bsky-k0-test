@@ -1,0 +1,5 @@
+beautifulsoup4==4.12.3
+nltk==3.8.1
+pandas==2.2.0
+playwright==1.41.2
+plotext==5.2.8 
